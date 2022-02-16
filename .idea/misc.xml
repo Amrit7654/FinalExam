@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android project/final exam/Get-boda-app-main/Get-boda-app-main/getboda/LayTrax-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
+        <entry key="..\:/android project/final exam/Get-boda-app-main/Get-boda-app-main/getboda/LayTrax-master/app/src/main/res/layout/main_activity.xml" value="0.25" />
+        <entry key="..\:/android project/final exam/Get-boda-app-main/Get-boda-app-main/getboda/LayTrax-master/app/src/main/res/layout/run_fragment.xml" value="0.21" />
+        <entry key="..\:/android project/final exam/Get-boda-app-main/Get-boda-app-main/getboda/LayTrax-master/app/src/main/res/layout/start_fragment.xml" value="0.17074275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
